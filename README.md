@@ -1,4 +1,4 @@
-# Projeto Jest Assíncrono e Mocking
+# Projeto Testes com Jest
 
 # Contexto
 
@@ -12,14 +12,10 @@ Pude colocar em prática todo o conteúdo que aprendi a cerca de:
 - Mockar funções;
 - Mockar chamadas à APIs;
 
-<br />
-
 # Tecnologias usadas
 
 * Jest
 * ESLint
-
-<br>
 
 # Orientações
 
@@ -29,13 +25,13 @@ Pude colocar em prática todo o conteúdo que aprendi a cerca de:
 1. Clone o repositório:
 
 ```
-git clone git@github.com:riquelmebandeira/projeto-jest.git
+git clone git@github.com:riquelmebandeira/testes-com-jest.git
 ```
 
 2. Entre na pasta do repositório clonado:
 
 ```
-cd projeto-jest
+cd testes-com-jest
 ```
 
 3. Instale as dependências com o comando:
